@@ -1,0 +1,1 @@
+Get-AppLockerPolicy -Effective -Xml

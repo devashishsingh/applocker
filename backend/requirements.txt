@@ -1,0 +1,4 @@
+Flask
+pywinrm
+requests-credssp
+flask-cors
